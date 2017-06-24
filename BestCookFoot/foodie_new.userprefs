@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UI_Scripts/DecorationItems.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UI_Scripts/DecorationItems.cs" Line="124" Column="29" />
+      <File FileName="Assets/Scripts/Burger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/China_Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Australia_Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EncryptionHandler64.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UI_Scripts/MenuManager.cs" Line="64" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
